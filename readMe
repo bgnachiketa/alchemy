@@ -1,0 +1,13 @@
+ECommerce application using sequelize(Migrations&seeders), Node, express
+
+Command to run migrations/Create DB:
+
+npx sequelize-cli db:migrate
+
+Command to run node:
+
+npm start 
+
+
+Note: All commands should be run at the root directory
+
